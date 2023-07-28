@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
 
 ### _Hi there 👋, I'm QqqIAs. My pursuit is WLB_
-  I want to be an interesting person.
+- ❤️ I want to be an interesting person.
 
 - 📝  Personal Blog(~~Almost put on hold because of work recently~~):
   [![Blog](https://img.shields.io/badge/语雀-298D46)](https://www.yuque.com/future_dream)
