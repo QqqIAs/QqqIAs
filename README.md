@@ -29,13 +29,13 @@
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-  ![Eslint](https://img.shields.io/badge/eslint-3A33D1?logo=eslint&logoColor=white)
-  ![Prettier](https://img.shields.io/badge/prettier-1A2C34?logo=prettier&logoColor=F7BA3E)
+  ![Eslint](https://img.shields.io/badge/Eslint-3A33D1?logo=eslint&logoColor=white)
+  ![Prettier](https://img.shields.io/badge/Prettier-1A2C34?logo=prettier&logoColor=F7BA3E)
 
 - ⚙️  I also use and work:
   ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)
   ![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)
-  ![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)
+  ![Webpack](https://img.shields.io/badge/-Webpack-2B3A42?logo=webpack&logoColor=75AFCC)
   ![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)
   ![PNPM](https://img.shields.io/badge/-PNPM-2B3A11?logo=pnpm&logoColor=029137)
 
