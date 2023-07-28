@@ -1,16 +1,38 @@
-### Hi,Welcome to my github homepage👋
-<h1></h1>
+<link rel="stylesheet" type="text/css" href="./beautiful.css">
 
-我是**QqqIAs**，热爱前端学习的24届选手
-- 实习经历：2023/4 ~ 至今    **哔哩哔哩**    前端开发实习生
-- 中国矿业大学，计算机科学与技术专业在读(2020-2024)
-- 学习前端时间 : 2022/10/7 ~ 至今
-- 个人博客：<a href="https://www.yuque.com/future_dream">QqqIAs's Yuque</a>
-- 一起加油，一起努力！
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27"> </h1>
+### _Hi there 👋, I'm QqqIAs._
 
-<div> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=QqqIAs&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
-<div> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QqqIAs&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-<br>
+I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
 
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)
+
+
+- 🚀 I use daily:
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+  ![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
+  ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+  ![Koa](https://img.shields.io/badge/Koa.js-404D59?)
+
+- 💻 I work using:
+  ![MAC OS](https://img.shields.io/badge/Apple-MacBook_Pro_2021-999999?logo=apple&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
+  ![Eslint](https://img.shields.io/badge/eslint-3A33D1?logo=eslint&logoColor=white)
+  ![Prettier](https://img.shields.io/badge/prettier-1A2C34?logo=prettier&logoColor=F7BA3E)
+
+- ⚙️ I also use and work:
+  ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)
+  ![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)
+  ![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)
+  ![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)
+
+- 🌱 I plan to learn:
+  ![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+  ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
 
