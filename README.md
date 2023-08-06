@@ -9,9 +9,6 @@
 - 💼  Whick company work for:
   ![Bilibili](https://img.shields.io/badge/Bilibili-479FD1?logo=bilibili&logoColor=white)
 
-- 🤝  Connect with me here:
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/qiudage3)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](http://discordapp.com/users/1074956241069158460)
 
 - 🚀  I use daily:
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
