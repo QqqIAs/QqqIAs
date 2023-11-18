@@ -7,7 +7,7 @@
   [![Blog](https://img.shields.io/badge/语雀-298D46)](https://www.yuque.com/future_dream)
 
 - 💼  Whick company work for:
-  ![Bilibili](https://img.shields.io/badge/Bilibili-479FD1?logo=bilibili&logoColor=white)
+  Baidu
 
 
 - 🚀  I use daily:
